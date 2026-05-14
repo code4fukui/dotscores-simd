@@ -14,7 +14,7 @@ dotscores-simd is a WebAssembly SIMD library for efficiently computing cosine si
 ## Usage
 
 ```js
-import { DotScores } from "https://code4fukui.github.io/dotscore-simd/DotScores.js";
+import { DotScores } from "~~https://code4fukui.github.io/dotscore-simd/DotScores.js~~ *(unavailable)*";
 
 // A dataset of 10 vectors, each with 4 dimensions
 const n = 10;

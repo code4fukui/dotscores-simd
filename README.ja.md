@@ -12,7 +12,7 @@ dotscores-simd は、クエリベクトルと多数の埋め込みベクトル�
 ## 使い方
 
 ```js
-import { DotScores } from "https://code4fukui.github.io/dotscore-simd/DotScores.js";
+import { DotScores } from "~~https://code4fukui.github.io/dotscore-simd/DotScores.js~~ *(unavailable)*";
 
 // 10個のベクトル（各4次元）からなるデータセット
 const n = 10;
